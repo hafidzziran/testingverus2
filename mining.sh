@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POOL="stratum+tcp://luckpool.net:3956"
+POOL="ap.luckpool.net:3956"
 WALLET="RMHG9FJS11g1y3FxfbHU82Bu7vChyoN3PL"
 WORKER="4jamTes"
 CPU_THREADS=3
